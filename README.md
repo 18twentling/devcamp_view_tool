@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+WentlingViewTool::Renderer.copyright 'Trinity Wentling', 'All rights reserved'
+```
 
 ## Development
 
